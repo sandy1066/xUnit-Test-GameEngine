@@ -1,0 +1,8 @@
+D:\Programs\.Net\game-engine\GameEngine\bin\Debug\netstandard1.6\GameEngine.deps.json
+D:\Programs\.Net\game-engine\GameEngine\bin\Debug\netstandard1.6\GameEngine.dll
+D:\Programs\.Net\game-engine\GameEngine\bin\Debug\netstandard1.6\GameEngine.pdb
+D:\Programs\.Net\game-engine\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfoInputs.cache
+D:\Programs\.Net\game-engine\GameEngine\obj\Debug\netstandard1.6\GameEngine.AssemblyInfo.cs
+D:\Programs\.Net\game-engine\GameEngine\obj\Debug\netstandard1.6\GameEngine.csproj.CoreCompileInputs.cache
+D:\Programs\.Net\game-engine\GameEngine\obj\Debug\netstandard1.6\GameEngine.dll
+D:\Programs\.Net\game-engine\GameEngine\obj\Debug\netstandard1.6\GameEngine.pdb
